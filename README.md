@@ -7,6 +7,15 @@ keyword:port
 ## Option2:
 ng serve --port 4200
 
+## Install bootstrap
+npm install jquery --save-dev
+(use --save-dev to save change to package.json)
+
+change .angular-cli.json with follows :
+"scripts": ["../node_modules/jquery/dist/jquery.min.js",
+        "../node_modules/bootstrap/dist/js/bootstrap.min.js"
+      ],
+
 
 
 
