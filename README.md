@@ -1,3 +1,35 @@
+#Set the port for starting
+
+Option1:
+location :C:\nlp-webUI\node_modules\@angular\cli\lib\config\schema.json
+keyword:port
+
+Option2:ng serve --port 4200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
