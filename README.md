@@ -1,10 +1,11 @@
-#Set the port for starting
+# Set the port for starting
 
-Option1:
+## Option1:
 location :C:\nlp-webUI\node_modules\@angular\cli\lib\config\schema.json
 keyword:port
 
-Option2:ng serve --port 4200
+## Option2:
+ng serve --port 4200
 
 
 
